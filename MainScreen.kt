@@ -1,0 +1,4 @@
+class MainScreen {
+    /* UI code */ 
+}
+

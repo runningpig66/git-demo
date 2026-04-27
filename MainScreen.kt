@@ -1,1 +1,4 @@
-class MainScreen { /* UI code */ }
+class MainScreen {
+    /* UI code */ 
+}
+
